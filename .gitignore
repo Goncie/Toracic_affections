@@ -1,1 +1,10 @@
-images/*
+images
+images_001.tar.gz
+BKToracic_Affections_Prediction.ipynb
+.conda
+.vscode
+lung
+
+
+
+
